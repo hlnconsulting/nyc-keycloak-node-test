@@ -1,1 +1,4 @@
-# nyc-keycloak-node-test
+```
+npm install keycloak-admin
+node getGroupMembers.js
+```
